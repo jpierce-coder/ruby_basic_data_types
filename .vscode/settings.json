@@ -1,0 +1,4 @@
+{
+  "ruby.rubocop.executePath": "/home/john/.rbenv/shims/",
+  "ruby.rubocop.useBundler": true
+}
